@@ -1,0 +1,13 @@
+//
+//  PhotoTableViewController.h
+//  PicTrip
+//
+//  Created by 張峻綸 on 2016/7/3.
+//  Copyright © 2016年 塗政勳. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface PhotoTableViewController : UITableViewController
+
+@end
